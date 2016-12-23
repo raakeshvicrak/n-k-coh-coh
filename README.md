@@ -1,5 +1,5 @@
 n-k-coh-coh is a popular childhood game in a certain rural midwestern town that requires just a board
-consisting of a grid of n  n squares and some white and black marbles. Initially the board starts empty
+consisting of a grid of n x n squares and some white and black marbles. Initially the board starts empty
 and all marbles are in a pile beside the board. Player 1 picks up a white marble and places it in any square
 of the board. Player 2 then picks up a black marble from the pile, and places it in any open square (i.e.
 any square except the one selected by Player 1). Play continues back and forth, with Player 1 always using
